@@ -61,4 +61,4 @@ A live deployment of this application can be viewed at:
 ## Screenshot
 
 Below is a screenshot of the application:
-![Screenshot of Application](https://github.com/Scott-Gauthier/19-Challenge/blob/main/assets/Screenshot_of_Application.jpg)
+![Screenshot of Application](https://github.com/Scott-Gauthier/19-Challenge/blob/main/assets/Screenshot%20of%20Application.jpg)
